@@ -19,6 +19,6 @@ Steps Involved:
 5. Evaluate model accuracy and loss.
 6. Visualize training progress with accuracy/loss graphs.
 
-#OUTPUT:
-
+#OUTPUT(Accuracy-and-Loss-Graph):
+![Image](https://github.com/user-attachments/assets/ddd20599-4a92-4759-8547-00b481c91600)
 
