@@ -8,7 +8,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 
-Description:
+#Description:
 
 This task requires building a Convolutional Neural Network (CNN) to classify images into different categories using TensorFlow or PyTorch. CNNs are widely used in image recognition tasks due to their efficiency in handling spatial hierarchies.
 Steps Involved:
